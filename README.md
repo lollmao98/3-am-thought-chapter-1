@@ -9,7 +9,7 @@ A text based PowerShell  novel prototype featuring typewriter dialogue, and play
 
 ## Installation & How to Run
 
-1. Download `chapter1.ps1` from the Release page.
+1. Download `chapter.1.ps1` from the Release page.
 2.  open **PowerShell** in that folder, and run the following command:
 
 ```powershell
