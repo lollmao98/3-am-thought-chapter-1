@@ -13,4 +13,4 @@ A text based PowerShell  novel prototype featuring typewriter dialogue, and play
 2.  open **PowerShell** in that folder, and run the following command:
 
 ```powershell
-.\chapter1.ps1
+.\chapter.1.ps1
